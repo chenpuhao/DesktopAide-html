@@ -13,7 +13,7 @@
     <br />
     <a href="https://www.desktopaide.run.place/"><strong>官方网站</strong></a>
   <br />
-  <a href="README.md"><strong>探索本项目的文档 »</strong></a>
+  <a href="https://github.com/chenpuhao/DesktopAide/README.md"><strong>探索本项目的文档 »</strong></a>
   <br />
     <a href="https://github.com/chenpuhao/DesktopAide/blob/main/README.md#%E5%8F%91%E8%A1%8C%E7%89%88%E6%9C%AC">下载安装包</a>
   ·
@@ -77,11 +77,11 @@ DeskAide是一款开源的基于Windows系统的桌面程序
 
 ### 软件截图
 1. #### 桌宠界面(可更换)
-    ![](icon/Body.png)
+    ![](https://github.com/chenpuhao/DesktopAide/icon/Body.png)
 2. #### 整理界面
-    ![](icon/readme/collation.png)
+    ![](https://github.com/chenpuhao/DesktopAide/icon/readme/collation.png)
 3. #### 更多功能界面
-    ![](icon/readme/more.png)
+    ![](https://github.com/chenpuhao/DesktopAide/icon/readme/more.png)
 ### 部分代码
 src/main/java/cn/Function/Collation.java
 ```java
