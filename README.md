@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/chenpuhao/DesktopAide">
-    <img src="icon/DesktopAide.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/chenpuhao/DesktopAide/blob/main/icon/DesktopAide.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">DesktopAide</h3>
