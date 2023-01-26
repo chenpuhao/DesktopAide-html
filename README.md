@@ -20,8 +20,6 @@
     <a href="https://316myk-my.sharepoint.com/:f:/g/personal/chenpuhao_316myk_onmicrosoft_com/EgdXuj60H3BOoW3XWsFDTIYBIVsx5P7EUSQzpooeZKkXLQ?e=TaAflH">备用下载渠道</a>
     ·
     <a href="mailto:chenpuhao1229@163.com?subject=报告Bug">报告Bug</a>
-    ·
-    <a href="README-en.md">英文界面</a>
   </p>
 
 ![](https://img.shields.io/github/license/chenpuhao/desktopaide)
